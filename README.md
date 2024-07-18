@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amirmahdikh2002@gmail.com**
 
-- 📄 Know about my experiences [https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266]([https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266](https://www.linkedin.com/in/amir-mahdi-khojaste-338415266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5XgGfL%2BOT3GpviaO%2F2IZsQ%3D%3D))
+- 📄 Know about my experiences [https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266]([https://www.linkedin.com/in/amir-mahdi-khojaste-338415266/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
