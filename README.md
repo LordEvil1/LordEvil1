@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **amirmahdikh2002@gmail.com**
 
-- 📄 Know about my experiences [https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266]([https://www.linkedin.com/in/amir-mahdi-khojaste-338415266/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/amir-mahdi-khojaste-338415266/]([https://www.linkedin.com/in/amir-mahdi-khojaste-338415266/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266?original_referer=https%3a%2f%2fwww.google.com%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266?original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amir-mahdi-khojaste-338415266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ir.linkedin.com/in/amir-mahdi-khojaste-338415266?original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/amir_mahdikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/amir_mahdikh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccbo0_-qb7yfezrz7hnjgpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccbo0_-qb7yfezrz7hnjgpg" height="30" width="40" /></a>
 </p>
